@@ -5,5 +5,5 @@ AutoVibeAi automates posting of trend-based videos on TikTok using AI analysis.
 AutoVibeAI is an automated tool that posts trend-based videos on TikTok using AI analysis. This repository hosts the project's documentation and website.
 
 ## Website
-- [Terms of Service](https://themedicman1.github.io/AutoVibeAI/terms.html)
-- [Privacy Policy](https://themedicman1.github.io/AutoVibeAI/privacy.html)
+- [Terms of Service](https://themedicman91.github.io/AutoVibeAI/terms.html)
+- [Privacy Policy](https://themedicman91.github.io/AutoVibeAI/privacy.html)
